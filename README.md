@@ -1,1 +1,2 @@
 # Adversarial-Attacks-on-ML-Based-Intrusion-Detection-Systems-in-Smart-Grids
+This research investigates how adversarial attacks—such as evasion, poisoning, and inference—can exploit vulnerabilities in machine learning models used for intrusion detection in smart grid environments. It reviews current defense mechanisms, highlights their strengths and weaknesses, and suggests future directions to improve the robustness and security of ML systems in critical infrastructure.
